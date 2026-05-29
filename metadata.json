@@ -1,0 +1,6 @@
+{
+  "name": "Gym Website and Admin Dashboard",
+  "description": "A professional gym and fitness center website with admission lead forms, class schedules, and a full-featured admin dashboard for Bangladeshi local gym businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
